@@ -1,0 +1,880 @@
+.wrap{
+    width: 1898px;
+    height: 6600px;
+    background-color: blueviolet;
+    margin: -10px -16px;
+}
+.welcome{
+    width: 1898px;
+    height: 36.9px;
+    background-color: black;
+    margin: 0 auto;
+}
+.text-1{
+    margin-top: 4px;
+    margin-right: -260px;
+    float: right;
+    color: lightgreen;
+}
+.text2{
+    margin-top: 4px;
+    margin-left: 300px;
+    margin-right: 10px;
+    float: right;
+    color: lightgreen;
+}
+.text-1:hover{
+    color: white;
+}
+.text2:hover{
+    color: white;
+}
+
+.text3:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url("../rasmlar/top_arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 7px;
+}
+.navbar{
+    width: 1886px;
+    height: 73px;
+    background-color: #171615;
+    margin: 0 auto;
+    padding: 10px 0 0 10px;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+}
+.text3{
+    font-size: 16px;
+    color: white;
+    margin-left: 10px;
+}
+.text4{
+    font-size: 16px;
+    color: white;
+    margin: -35px 115px;
+}
+.text5{
+    font-size: 16px;
+    color: white;
+    margin-top: 17px;
+    margin-left: 260px;
+}
+.text6{
+    font-size: 16px;
+    color:  white;
+    margin: -35px 530px;
+}
+.pic1{
+    width: 235px;
+    height: 60px;
+    margin-left: 800px;
+}
+.button{
+    width: 200px;
+    height: 50px;
+    border: 1px solid #52a535;
+    background-color: #52a535;
+    margin: -55px 1620px;
+}
+.button:hover{
+    border-color: #3c8527;
+    background-color: #3c8527;
+}
+.text7{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.box{
+    width: 1898px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+}
+.box-item{
+    width: 1200px;
+    height: 600px;
+    background-image: url("../rasmlar/mine.jpg");
+    background-repeat: no-repeat;
+    margin: 0 350px;
+    background-size: 1200px 600px;
+    padding: 35px 80px ;
+}
+.text8{
+    color: white;
+}
+.text9{
+    color: white;
+}
+.box-item2{
+    width: 269px;
+    height: 72px;
+    border: 5px solid #3c8527;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    color: white;
+    text-align: center;
+    margin: -400px 430px;
+    transition: 0.2s;
+}
+.box-item2:hover{
+    background-color: #171615;
+    border: 1px solid white;
+}
+.box2{
+    height: 1950px;
+    width: 1800px;
+    background-image: url("../rasmlar/tosh.png");
+    background-size: 1906px 1950px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 50px;
+}
+.box-item3{
+    width: 1030px;
+    height: 851px;
+    background-color: white;
+    margin: 0 330px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 70px;
+}
+.text10{
+    font-weight: 551px;
+}
+.pic2{
+    margin: 50px 0 0 -600px;
+    transition: 0.5s;
+}
+.text11{
+    font-weight: 113px;
+    font-size: 21px;
+    margin-right: 600px;
+    color: #3c8527;
+}
+.text11:hover{
+    color: black;
+    text-decoration: underline;
+}
+.text12{
+    margin-right: 600px;
+}
+.pic3{
+    position: absolute;
+    top: 950px;
+    margin-left: -100px;
+    transition: 0.5s;
+}
+.text13{
+    font-weight: 113px;
+    font-size: 21px;
+    margin: -120px 90px;
+    color: #3c8527;
+}
+.text13:hover{
+    color: black;
+    text-decoration: underline;
+}
+.text14{
+    margin: 130px 90px;
+}
+.pic4{
+    position: absolute;
+    top: 950px;
+    left: 1150px;
+    transition: 0.5s;
+}
+
+.text15{
+    position: absolute;
+    top: 1300px;
+    left: 1150px;
+    color: #3c8527;
+}
+.text16{
+    position: absolute;
+    top: 1335px;
+    left: 1150px;
+}
+.text15:hover{
+    color: black;
+    text-decoration: underline;
+}
+.box-item4{
+    width: 60px;
+    height: 63px;
+    border: 6px solid black;
+    margin: -710px 380px;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    border-left-color: white;
+    border-right-color: white;
+}
+.l_arr{
+    width: 30px;
+    height: 30px;
+    margin: 16px 15px;
+}
+.box-item5{
+    width: 60px;
+    height: 63px;
+    border: 6px solid black;
+    margin: 635px 1350px;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    border-left-color: white;
+    border-right-color: white;
+}
+.l_arr2{
+    width: 30px;
+    height: 30px;
+    margin: 16px 15px;
+}
+.pic2:hover{
+    transform: scale(1.1);
+    border: 1px solid limegreen;
+}
+.pic3:hover{
+    transform: scale(1.1);
+    border: 1px solid limegreen;
+}
+.pic4:hover{
+    transform: scale(1.1);
+    border: 1px solid limegreen;
+}
+.text17{
+    text-align: center;
+    color: white;
+    font-size: 37px;
+    font-weight: 195px;
+}
+.box-item6{
+    width: 440px;
+    height: 370px;
+    margin: 90px 150px;
+}
+.box-item7{
+    width: 440px;
+    height: 250px;
+    margin-bottom: -1px;
+    border: 1px solid white;
+}
+.text17{
+    color: white;
+    margin: 0 60px;
+}
+.text17:hover{
+    color: #52a535;
+}
+.box-item8{
+    width: 60px;
+    height: 63px;
+    border: 6px solid transparent;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    margin: 0 50px;
+}
+.box-item9{
+    width: 440px;
+    height: 250px;
+    margin: -460px 680px;
+    border: 1px solid white;
+}
+.text18{
+    text-align: center;
+    margin: -5px;
+    color: white;
+}
+.text18:hover{
+    color: #52a535;
+}
+.text19{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.box-item12{
+    width: 440px;
+    height: 250px;
+    border: 1px solid white;
+    margin: 209px 1200px;
+}
+.text20{
+    width: 304px;
+    margin: -205px 1270px;
+    text-align: center;
+    color: white;
+}
+.text20:hover{
+    color: #52a535;
+}
+.box-item13{
+    width: 60px;
+    height: 63px;
+    border: 6px solid transparent;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    margin: -80px 1670px;
+}
+.box-item12:hover{
+    border: 1px solid #52a535;
+}
+.box-item10:hover{
+    width: 440px;
+    height: 250px;
+    border: 2px solid #52a535;
+}
+.box-item7:hover{
+    border: 1px solid #52a535;
+}
+.box3{
+    width: 1898px;
+    height: 1355px;
+    background-color: white;
+    margin: -100px 0;
+    padding: 50px 0;
+}
+.box-item14{
+    width: 1085px;
+    height: 360px;
+    margin: 0 359px;
+}
+.text21{
+    font-size: 32px;
+    float: right;
+    margin: 90px 50px;
+}
+.text22{
+    float: right;
+    margin: -230px 30px;
+}
+.pic5{
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin: -150px 409px;
+}
+.text23{
+    margin: -150px 675px;
+    color: #196d17;;
+}
+.box-item15{
+    width: 1085px;
+    height: 360px;
+    border: 1px solid white;
+    margin: 50px 359px;
+}
+.pic9{
+    float: right;
+}
+.text24{
+    font-size: 32px;
+    margin: 90px -2px;
+}
+.text25{
+    margin: -80px 0;
+}
+.pic6{
+    width: 20px;
+    height: 20px;
+    margin: 100px 0;
+}
+.text26{
+    margin: -123px 19px;
+    color: #196d17;
+}
+.box-item16{
+    width: 1085px;
+    height: 360px;
+    margin: 50px 359px;
+}
+.text27{
+    float: right;
+    margin: 90px -19px;
+}
+.text28{
+    float: right;
+    margin: -225px 103px;
+}
+.pic7{
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin: -170px 446px;
+}
+.text29{
+    float: right;
+    margin: -170px 406px;
+    color: #196d17;
+}
+.block{
+    width: 1898px;
+    height: 400px;
+    background-image: url("../rasmlar/block.png");
+    background-size: 1898px 400px;
+}
+.box4{
+    width: 1898px;
+    height: 1502px;
+    background-color: white;
+    margin: -23px 0 0 0;
+    padding: 1px;
+}
+.box5{
+    margin: -1200px 0;
+}
+.text30{
+    font-family: "Arial";
+    text-align: center;
+}
+.box-item17{
+    width: 550px;
+    height: 200px;
+    margin: 0 600px;
+    padding: 50px;
+}
+.text31{
+    text-align: center;
+}
+.pic31{
+    width: 20px;
+    height: 20px;
+    margin: 13px 221px;
+}
+.text32{
+    text-align: center;
+    margin: -37px;
+    color: #196d17;
+    font-family: "Arial Black";
+}
+.box-item18{
+    width: 535px;
+    height: 135px;
+    background-image: url("../rasmlar/pic11.avif");
+    margin: -700px 300px;
+    padding: 430px 0 0 0;
+    background-repeat: no-repeat;
+}
+.box-item19{
+    padding: 10px 0 0 0;
+    width: 535px;
+    height: 96px;
+    background-color: rgba(0,0,0,.7);
+    margin: 30px 0;
+}
+.text33{
+    text-align: center;
+    color: white;
+    font-family: Arial;
+}
+.box-item20{
+    width: 263px;
+    height: 263px;
+    margin-left: 850px;
+    margin-top: 135px;
+    background-image: url("../rasmlar/pic12.avif");
+    padding: 1px;
+}
+.box-item21{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item22{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic13.avif");
+    margin-left: 1130px;
+    margin-top: -265px;
+    padding: 1px;
+}
+.box-item23{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item24{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic14.avif");
+    margin-left: 850px;
+    margin-top: 35px;
+    padding: 1px;
+}
+.box-item25{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item26{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic15.avif");
+    margin-left: 1130px;
+    margin-top: -265px;
+    padding: 1px;
+}
+.box-item27{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item28{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic16.avif");
+    margin-left: 300px;
+    margin-top: 1220px;
+    padding: 1px;
+}
+.box-item29{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item30{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic17.avif");
+    margin-left: 570px;
+    margin-top: -262.5px;
+    padding: 1px;
+}
+.box-item31{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item32{
+    width: 262.5px;
+    height: 262.5px;
+    background-image: url("../rasmlar/pic18.avif");
+    margin-left: 850px;
+    margin-top: -262.5px;
+    padding: 1px;
+}
+.box-item33{
+    width: 263px;
+    height: 88px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: 170px;
+    color: white;
+    padding: 6px 0 0 0;
+}
+.box-item34{
+    width: 115px;
+    height: 52px;
+    border: 5px solid #3c8527;
+    background-color: #3c8527;
+    border-top-color: #52a535;
+    border-bottom-color: #2a641c;
+    color: white;
+    text-align: center;
+    margin: 100px 870px;
+    padding-bottom: 6px;
+    transition: 0.2s;
+}
+.box-item34:hover{
+    background-color: #171615;
+    border: 1px solid blue;
+}
+.text40{
+    text-align: center;
+    margin: -70px;
+}
+.box7{
+    width: 1898px;
+    height: 142px;
+    background-color: #000;
+    margin: 160px 0;
+}
+.text41{
+    text-align: center;
+    color: white;
+    font-family: "Arial Black";
+    margin: 20px;
+}
+.rasm{
+    margin-left: 800px;
+}
+.box8{
+    width: 1898px;
+    height: 572px;
+    background-color: #111;
+    margin: -160px 0;
+}
+.moj{
+    width: 160px;
+    margin: 80px 270px;
+}
+.xbox{
+    margin: 100px -180px;
+}
+.text42{
+    color: white;
+    margin: -20px 260px;
+    width: 600px;
+}
+.text43{
+    color: #a0e080;
+    margin: 40px 255px;
+    width: 180px;
+}
+.text43:hover{
+    color: white;
+}
+.text44{
+    color: white;
+    text-align: center;
+    margin: -300px;
+    font-family: "Arial";
+}
+
+.text45{
+    color: #a0e080;
+    width: 150px;
+    margin: 310px 915px;
+}
+.text45:hover{
+    color: white;
+}
+.text46{
+    width: 150px;
+    color: #a0e080;
+    margin: -300px 915px;
+}
+.text46:hover{
+    color: white;
+}
+.text47{
+    width: 150px;
+    color: #a0e080;
+    margin: 310px 915px;
+}
+.text47:hover{
+    color: white;
+}
+.text48{
+    width: 150px;
+    color: #a0e080;
+    margin: -300px 915px;
+}
+.text48:hover{
+    color: white;
+}
+.text49{
+    width: 150px;
+    color: white;
+    margin: 310px 915px;
+    font-family: Arial;
+}
+.text50{
+    width: 150px;
+    color: #a0e080;
+    margin: -300px 915px;
+}
+.text50:hover{
+    color: white;
+}
+.text51{
+    width: 200px;
+    color: #a0e080;
+    margin: 310px 915px;
+}
+.text51:hover{
+    color: white;
+}
+.text52{
+    width: 170px;
+    color: #a0e080;
+    margin: -300px 915px;
+}
+.text52:hover{
+    color: white;
+}
+.text53{
+    color: white;
+    margin: 45px 1215px;
+    font-family: "Arial";
+}
+.text54{
+    width: 170px;
+    color: #a0e080;
+    margin: -35px 1215px;
+}
+.text54:hover{
+    color: white;
+}
+.text55{
+    width: 170px;
+    color: #a0e080;
+    margin: 45px 1215px;
+}
+.text55:hover{
+    color: white;
+}
+.text56{
+    width: 170px;
+    color: white;
+    margin: -35px 1215px;
+    font-family: "Arial"
+}
+.text57{
+    width: 170px;
+    color: #a0e080;
+    margin: 45px 1215px;
+}
+.text57:hover{
+    color: white;
+}
+.text58{
+    width: 180px;
+    color: #a0e080;
+    margin: -35px 1215px;
+}
+.text58:hover{
+    color: white;
+}
+.text59{
+    width: 150px;
+    color: #a0e080;
+    margin: 45px 1215px;
+}
+.text59:hover{
+    color: white;
+}
+.text60{
+    width: 180px;
+    color: #a0e080;
+    margin: -35px 1215px;
+}
+.text60:hover{
+    color: white;
+}
+.text61{
+    width: 150px;
+    color: #a0e080;
+    margin: 45px 1215px;
+}
+.text61:hover{
+    color: white;
+}
+.text62{
+    width: 180px;
+    color: white;
+    margin: -35px 1215px;
+    font-family: Arial;
+}
+.text63{
+    width: 150px;
+    color: #a0e080;
+    margin: 45px 1215px;
+}
+.text63:hover{
+    color: white;
+}
+.text64{
+    width: 180px;
+    color: #a0e080;
+    margin: -35px 1215px;
+}
+.text64:hover{
+    color: white;
+}
+.fan{
+    width: 204px;
+    height: 136px;
+    margin-top: -500px;
+    margin-left: 1455px;
+}
+.the-end{
+    width: 1898px;
+    height: 90px;
+    background-color: #313131;
+    margin: 70px 0;
+}
+.mir{
+    margin: 35px 200px;
+}
+.text65{
+    margin: -60px 235px;
+    color: white;
+}
+.text65:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-image: url("../rasmlar/top_arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 7px;
+    transform: rotate(180deg);
+}
+.text66{
+    margin: 40px 560px;
+    color: white;
+}
+.text67{
+    margin: -58px 730px;
+    color: white;
+}
+.text68{
+    margin: 40px 860px;
+    color: white;
+}
+.text69{
+    width: 150px;
+    margin: -58px 980px;
+    color: white;
+}
+.text70{
+    width: 150px;
+    margin: -30px 1100px;
+    color: white;
+}
+.mic{
+    margin-top: 40px;
+    margin-left: 1400px;
+}
